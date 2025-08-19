@@ -195,16 +195,17 @@ Cluster 4 (Purple): Characterized by high average income (~$90k) but a very low 
 
 In summary, these visualizations complete the customer segmentation workflow by first identifying the optimal number of clusters, then visualizing the resulting groups, and finally providing a clear, actionable profile for each customer segment.
 
-Task 5: Interactive Business Dashboard in Streamlit
+# Task 5: Interactive Business Dashboard in Streamlit
 Objective:
 Develop an interactive dashboard for analyzing sales, profit, and segment-wise performance.
+
 Dataset:
 Global Superstore Dataset
+
 Instructions:
 * Clean and prepare the dataset
 * Build a Streamlit dashboard with filters (Region, Category, Sub-Category)
-* Display key performance indicators (KPIs) using charts:
-   * Total Sales
+* Display key performance indicators (KPIs) using charts: Total Sales, Profit, Top 5 customers by sales
 
 Results:
 After running Streamlit app, here's a breakdown of what each visualization means:
