@@ -15,7 +15,7 @@ Instructions:
 * Train classification models (e.g., Logistic Regression, Random Forest)
 * Evaluate the models using Confusion Matrix, F1-Score, and ROC Curve
 
-Results:
+*Results:*
 Here's a breakdown of what each visualization means:
 
 1. **Logistic Regression:**
@@ -96,7 +96,7 @@ Instructions:
 * Use PCA or t-SNE to visualize the clusters
 * Suggest relevant marketing strategies for each identified segment
 
-Results:
+*Results:*
 Here's a breakdown of what each visualization means:
 
 1. **Genre Distribution:**
@@ -207,7 +207,7 @@ Instructions:
 * Build a Streamlit dashboard with filters (Region, Category, Sub-Category)
 * Display key performance indicators (KPIs) using charts: Total Sales, Profit, Top 5 customers by sales
 
-Results:
+*Results:*
 After running Streamlit app, here's a breakdown of what each visualization means:
 
 **Key Performance Indicators (KPIs):**
